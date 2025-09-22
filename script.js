@@ -209,7 +209,7 @@ async function enviarFormularioContato(form) {
         
         // Aqui você integraria com um serviço de email como EmailJS ou backend
         console.log('Dados do formulário:', data);
-        console.log('Enviando para: josean.castilho@novohorizonteconservadora.com.br');
+        console.log('Enviando para: contato@sudesteservicos.com.br');
         
         showNotification('Mensagem enviada com sucesso! Entraremos em contato em breve.', 'success');
         form.reset();
@@ -375,7 +375,7 @@ async function enviarCandidatura() {
         };
         
         console.log('Dados da candidatura:', candidaturaData);
-        console.log('Enviando para: rh@novohorizonteconservadora.com.br');
+        console.log('Enviando para: rh@sudesteservicos.com.br');
         
         // Salvar candidatura no perfil do usuário (se logado)
         if (window.userManager && window.userManager.isLoggedIn()) {

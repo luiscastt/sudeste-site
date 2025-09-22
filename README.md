@@ -1,4 +1,4 @@
-# Sudeste Conservadora e Serviços Gerais
+# Sudeste Serviços Gerais LTDA
 Site corporativo com sistema de autenticação universal.
 
 ## 🔐 Sistema de Autenticação
@@ -85,4 +85,6 @@ npm run preview
 - ✅ Compatibilidade cross-browser
 - ✅ Fallback para ambientes sem Supabase
 - ✅ Atualização do nome da empresa
-- ✅ Substituição "Copeiro" → "Copeiragem"
+- ✅ Atualização da identidade corporativa para Sudeste Serviços Gerais LTDA
+- ✅ Atualização da data de fundação para 2015 (10 anos de experiência)
+- ✅ Nova logo com identidade visual moderna
